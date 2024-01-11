@@ -21,3 +21,5 @@ class calculs:
     
 help(calculs.comparar_numeros)
 help(calculs.suma_3_numeros)
+
+print(calculs.comparar_numeros.__doc__)
